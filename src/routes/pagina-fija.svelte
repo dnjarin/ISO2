@@ -5,5 +5,5 @@
 <h1>Página Fija</h1>
 
 <Card title="Contenido Estático" subtitle="Página requerida">
-  <p>Aquí pones texto, imágenes o instrucciones. Es una página con contenido fijo.</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea a ex quisquam doloremque adipisci nisi nesciunt facilis, nemo, architecto rerum ab laboriosam voluptatem tempore provident quae consequatur magni accusamus assumenda.</p>
 </Card>
